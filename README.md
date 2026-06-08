@@ -204,3 +204,4 @@ Curated list of blog posts, videos and resources on testing blockchains and Web3
 * [dAppeteer](https://github.com/ChainSafe/dappeteer) - E2E testing for dApps using Puppeteer + MetaMask
 * [dappwright](https://www.npmjs.com/package/@tenkeylabs/dappwright) - E2E testing for dApps using Playwright + MetaMask & Coinbase Wallet
 * [Web3 E2E Tests Workshop](https://github.com/thechaincademy/web3-tests-workshop) - an example of project with synpress
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments and paid API access. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
